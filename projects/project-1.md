@@ -5,7 +5,7 @@ image: images/snake.png
 title: Snake Game
 permalink: projects/snake
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: Fall 2018
 labels:
   - Robotics
   - Arduino
