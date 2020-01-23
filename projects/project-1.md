@@ -8,9 +8,8 @@ permalink: projects/snake
 # All dates must be YYYY-MM-DD format!
 date: Fall 2018
 labels:
-  - Robotics
-  - Arduino
   - Java
+  - Game Programming 
 summary: My partner and I created a snake video game for our final project for ICS 111.
 ---
 
