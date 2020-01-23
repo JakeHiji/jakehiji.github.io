@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/c.png
+image: images/ccode.png
 title: Bank Data Base
 permalink: projects/Bank
 # All dates must be YYYY-MM-DD format!
