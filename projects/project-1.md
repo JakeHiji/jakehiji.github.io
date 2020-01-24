@@ -2,15 +2,15 @@
 layout: project
 type: project
 published: true
-image: images/snake.png
-title: Snake Game
-permalink: projects/snake
+image: images/sponge.jpg
+title: SpongSurfer game
+permalink: projects/Spongesurfer
 # All dates must be YYYY-MM-DD format!
 date: Fall 2018
 labels:
   - Java
   - Game Programming 
-summary: My partner and I created a snake video game for our final project for ICS 111.
+summary: I created a surfing style video game for ICS 111.
 ---
 
 Throughout introduction to computer science 111, We did a number of different projects that were essentially "games" that we were able to create, test/play, and share with others.  The second big project that we had was a surfer style game in which we controlled a point or character on the screen.  We had to have the background moving in a horizontal motion with objects "floating" and moving at random speeds but in the same left to right direction.  
