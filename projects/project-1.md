@@ -13,9 +13,12 @@ labels:
 summary: My partner and I created a snake video game for our final project for ICS 111.
 ---
 
-The snake game that I created for our final project involved a up, down, left, right travelling point which took input from the user, and a randomly placed point on screen.  If the point that you are in control of comes into contact with the randomly placed point, controlled points length increases, creating a snake.  It is a rendition of the classic snake game found online.  
+Throughout introduction to computer science 111, We did a number of different projects that were essentially "games" that we were able to create, test/play, and share with others.  The second big project that we had was a surfer style game in which we controlled a point or character on the screen.  We had to have the background moving in a horizontal motion with objects "floating" and moving at random speeds but in the same left to right direction.  
 
-This project took a lot of time to plan and execute, my partner and I had no previous knowledge of coding in any language because this was the intro class into ICS.  This was the biggest project that we both had done in java, but with the help of the professors and the TA's we were able to have a fully functioning game.  
+This project took a lot of time to plan and execute, as I had no previous knowledge of coding in any language because this was the intro class into ICS.  This was the biggest project that I had done in java at the time, but with the help of the professor and the TA's and many long nights, I was able to have a fully functioning game.  This project helped to teach me the basics of coding along with having good study habits.  These big projects cannot be done over night and take time to produce good functioning code so I had to be very responsible with the time given to us and not procrastinate.
 
-This project helped to teach me the basics of coding along with having good study habits.  These big projects cannot be done over night and take time to produce good functioning code so I had to be very responsible with the time given to us and not procrastinate.
+My project specifically was a SpongeBob themed game in which the character that you control is spongebob on a seahorse.  As you start the game, it will load up and place you into the environment, krabby patties, lemonade, and jellyfish will fly across the screen at different speeds and at different positions.  On the top of the screen there are two meter bars, one for food and one for drinks, as the lemonade and krabby patties fly across the screen, you must eat and drink the objects before your meter hits zero, in which it stops the game and prompts you to eat or drink more based on which meter runs out first.  If you run into the jelly fish, both the food and drink meter will be penalized by decreasing it by a little.
+
+Link to a video of the game:
+https://www.youtube.com/watch?v=459I99bnwGo
 
