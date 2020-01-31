@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ccode.png
 title: Bank Data Base
-permalink: projects/Bank
+permalink: projects/bank
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-01
 labels:
