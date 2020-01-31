@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/sponge.jpg
-title: SpongSurfer game
+title: SpongeSurfer game
 permalink: projects/Spongesurfer
 # All dates must be YYYY-MM-DD format!
 date: Fall 2018
