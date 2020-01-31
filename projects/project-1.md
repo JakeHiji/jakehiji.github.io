@@ -18,6 +18,5 @@ This project took a lot of time to plan and execute, as I had no previous knowle
 
 My project specifically was a SpongeBob themed game in which the character that you control is spongebob on a seahorse.  As you start the game, it will load up and place you into the environment, krabby patties, lemonade, and jellyfish will fly across the screen at different speeds and at different positions.  On the top of the screen there are two meter bars, one for food and one for drinks, as the lemonade and krabby patties fly across the screen, you must eat and drink the objects before your meter hits zero, in which it stops the game and prompts you to eat or drink more based on which meter runs out first.  If you run into the jelly fish, both the food and drink meter will be penalized by decreasing it by a little.
 
-Link to a video of the game:
-https://www.youtube.com/watch?v=459I99bnwGo
+[Check out my project here](https://www.youtube.com/watch?v=459I99bnwGo).
 
