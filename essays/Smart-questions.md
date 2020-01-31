@@ -9,7 +9,7 @@ labels:
 - Open Source Software
 - StackOverflow
 ---
-![communication](/images/com.png)
+<img class="communications" src="../images/com.png">
 
 
 ## Communication is key?
