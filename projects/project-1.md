@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-published: true
 image: images/sponge.jpg
 title: SpongeSurfer game
 permalink: projects/Spongesurfer
