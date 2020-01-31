@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "jakehiji",
+        "username": "JakeHiji",
         "url": "http://github.com/jakehiji"
       },
       {
@@ -28,7 +28,7 @@
       {
         "network": "instagram",
         "username": "jakehiji",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/jakehiji"
       }
     ]
   },
@@ -72,16 +72,18 @@
     {
       "company": "Signature Prime Steak and Seafood",
       "position": "Busser/Food Runner",
+      "website": "https://signatureprimesteak.com/",
       "startDate": "2018 June",
       "endDate": "Present",
+      "summary": "run food buss tables",
       "highlights": [
         "Fine dining establishment, running food"
-        
       ]
     },
     {
       "company": "Stan Sheirff Center",
       "position": "Usher/Ticket Scanner",
+      "website": "",
       "startDate": "2017 August",
       "endDate": "2019 May",
       "summary": "",
@@ -93,7 +95,7 @@
   "volunteer": [
     {
       "organization": "Boy Scouts of America",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "https://www.scouting.org/",
       "position": "Boy Scout",
       "startDate": "2010-01-01",
       "endDate": "Present",
