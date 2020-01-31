@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: true
 title: Javascript, a familiar face?
 date: 2020-01-23
 labels:
