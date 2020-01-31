@@ -5,7 +5,7 @@ image: images/eagle.png
 title: Eagle Project
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: March 2017
+date: 2017-03-01
 labels:
   - Boy Scouts
   - Community Service
