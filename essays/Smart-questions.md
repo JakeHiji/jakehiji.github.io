@@ -9,6 +9,7 @@ labels:
 - Open Source Software
 - StackOverflow
 ---
+![communication](/images/com.png)
 
 
 ## Communication is key?
