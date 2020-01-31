@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-published: true
 image: images/ccode.png
 title: Bank Data Base
 permalink: projects/Bank
