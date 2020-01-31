@@ -10,7 +10,6 @@ labels:
 ---
 <img class="ui top aligned large image" src="../images/com.png">
 
-
 ## Communication is key?
 
 Why is communication so key in Software Engieering?  Problems always arise when coding and sometimes, you can spend hours looking through code, pulling your hair out just to find out that you are simply missing a semi-colon at the end of line 152.  This is a big problem in this industry and is the reason for the god-sent StackOverflow.  Here users can freely communicate with eachother by asking and answering questions involving problems within the code they are trying to write.  This site gives coders such as myself a resource to find answers to things I don't know, teaching me new strategies and giving me tips that I can use for my code and beyond.
