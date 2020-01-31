@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sponge.jpg
 title: SpongeSurfer game
-permalink: projects/Spongesurfer
+permalink: projects/spongesurfer
 # All dates must be YYYY-MM-DD format!
 date: 2017-01-01
 labels:
