@@ -1,6 +1,7 @@
 --- 
 layout: essay 
 type: essay 
+published: true
 title: Future Endeavors in Software Engineering
 date: 2020-1-23 
 labels: 
