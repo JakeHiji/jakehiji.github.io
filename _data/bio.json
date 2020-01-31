@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Jake Hijirida",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://jakehiji.github.io/images/profile.jpg",
-    "email": "jakehiji@hawaii.edu",
-    "phone": "",
-    "website": "https://jakehiji.github.io",
-    "summary": "I am currently studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96817",
+      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,29 +17,41 @@
     "profiles": [
       {
         "network": "github",
-        "username": "JakeHiji",
-        "url": "http://github.com/jakehiji"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "jakehiji",
-        "url": "http://linkedin.com/in/jakehiji"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "jakehiji",
-        "url": "http://instagram.com/jakehiji"
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "Software Engineering, Coding",
-      "keywords": [ 
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "Gamification",
+      "name": "data mining",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -52,16 +64,29 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2017-09-01",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -70,54 +95,69 @@
   ],
   "work": [
     {
-      "company": "Signature Prime Steak and Seafood",
-      "position": "Busser/Food Runner",
-      "website": "https://signatureprimesteak.com/",
-      "startDate": "2018 June",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "run food buss tables",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Fine dining establishment, running food"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "Stan Sheirff Center",
-      "position": "Usher/Ticket Scanner",
-      "website": "",
-      "startDate": "2017 August",
-      "endDate": "2019 May",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Guide visitors to seats, scan tickets of students and fans of UH Basketball/Volleyball team"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Boy Scouts of America",
-      "website": "https://www.scouting.org/",
-      "position": "Boy Scout",
-      "startDate": "2010-01-01",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Community Service, camping and life skills",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Learning useful skills that are not normally taught from parents or school",
-        "Survival skills"
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Magna Cum Laude",
-      "date": "2017",
-      "awarder": "Roosevelt High School",
-      "summary": "awarded to graduating senior students who complete a rigorous high school curriculum with a minimum overall GPA of 3.4 at a Roosevelt Highschool."
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "Eagle Scout",
-      "date": "2017",
-      "awarder": "Boy Scouts of America",
-      "summary": "Ascend the ranks of Boy Scouts and reach the top rank of eagle"
+      "title": "First place",
+      "date": "2015",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
