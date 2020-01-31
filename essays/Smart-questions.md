@@ -23,5 +23,5 @@ With that being said, users who ask questions need to be descriptive about what 
 ## What makes a Bad Question
 Users who ask bad questions wont get the results that they want.  Simply copying and pasting lines of code won't help the reader understand your problem (most of the time).  A bad question title example I found was "How can i get right http status code on sapper?", a somewhat general question, not very interesting or eye catching.  Within the question were numerous pictures, lines of code, and no description what-so-ever which led it to having no responses.  
 
-## The Good, the Bad, and the Ugly
+## Changing my ways
 Before this, I was sometimes a "bad question" asker, this article changed my point of view on how I should be asking questions.  My mentality has since shifted and I know what I need to do inorder to get the response that I want.  Asking a quality question will yield quality results!
