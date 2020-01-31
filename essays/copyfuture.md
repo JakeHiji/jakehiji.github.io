@@ -1,4 +1,3 @@
-
 --- 
 layout: essay 
 type: essay 
@@ -8,6 +7,7 @@ labels:
 - Software Engineering 
 - Learning and skills 
 ---
+
 
 <img class="ui top aligned large image" src="../images/me.jpeg">
 
