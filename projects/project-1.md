@@ -5,7 +5,7 @@ image: images/sponge.jpg
 title: SpongeSurfer game
 permalink: projects/Spongesurfer
 # All dates must be YYYY-MM-DD format!
-date:2017-00-00
+date:2017-01-01
 labels:
   - Java
   - Game Programming 
