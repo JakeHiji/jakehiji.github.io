@@ -6,7 +6,7 @@ title: Jake Hijirida | Professional Portfolio
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://jakehiji.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/JakeHiji"
+baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
@@ -16,7 +16,7 @@ bio-page-label: Resume
 theme-home: theme-home-builtin-2.html
 theme-projects: theme-projects-builtin-2.html
 theme-essays: theme-essays-builtin-2.html
-theme-bio: theme-bio-builtin-1.html
+theme-bio: theme-bio-builtin-2.html
 
 # Specify the rouge syntax highlighter theme. Pick one from css/rouge.
 rouge-theme: igorpro
