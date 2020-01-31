@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: images/sponge.jpg
+image: images/spong.jpg
 title: SpongeSurfer game
-permalink: projects/Spongesurfer
-date:2017-01-01
+permalink: projects/Spongsurfer
+# All dates must be YYYY-MM-DD format!
+date: 2017-01-01
 labels:
   - Java
-  - Game Programming 
+  - Game Programming
 summary: I created a surfing style video game for ICS 111.
 ---
 
