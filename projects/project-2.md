@@ -5,7 +5,7 @@ image: images/ccode.png
 title: Bank Data Base
 permalink: projects/Bank
 # All dates must be YYYY-MM-DD format!
-date: Fall 2019
+date: 2019-00-00
 labels:
   - C
   - C++
