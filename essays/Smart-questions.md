@@ -9,7 +9,7 @@ labels:
 - Open Source Software
 - StackOverflow
 ---
-<img class="communications" src="../images/com.png">
+<img class="ui top aligned large image" src="../images/com.png">
 
 
 ## Communication is key?
