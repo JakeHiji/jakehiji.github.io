@@ -1,6 +1,7 @@
 --- 
 layout: essay 
 type: essay 
+published: true
 title: Why Ask Smart Questions?
 date: 2020-1-30
 labels: 
