@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Javascript reflection
+title: Javascript, a familiar face?
 date: 2020-01-23
 labels:
   - Javascript
