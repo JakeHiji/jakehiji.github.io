@@ -10,6 +10,8 @@ labels:
   - Intellij
 ---
 
+
+<img class="ui top aligned large image" src="../images/eslint.png">
 ## What are Coding Standards?
 
 The online definition for Coding Standards are defined as being a "set of guidlines, best practices, programming styles and 
