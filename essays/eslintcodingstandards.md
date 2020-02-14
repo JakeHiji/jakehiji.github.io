@@ -9,8 +9,6 @@ labels:
   - Coding Standards
   - Intellij
 ---
-
-
 <img class="ui top aligned large image" src="../images/eslint.png">
 
 ## What are Coding Standards?
