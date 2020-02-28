@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-<img class="ui top aligned small image" src="../images/semantic.png">
+<img class="ui top aligned small image" src="../images/semanticui.png">
 
 ## Why use Semantic UI?
 
