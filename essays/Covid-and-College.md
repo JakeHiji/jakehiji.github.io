@@ -2,13 +2,13 @@
 layout: essay
 type: essay
 published: true
-title: Schools Out!
+title: Stay Home and Stay Safe
 date: 2020-04-03
 labels:
   - covid-19
   - college
 ---
-<img class="ui top aligned large image" src="../images/corona.jpeg">
+<img class="ui top aligned large image" src="../images/covid.png">
 
 ## School is out, what now?
 Never did I think there will be a day where my school was cancelled.  All my childhood, I had dreamt of this; of course not due to circumstances such as these but not having to go to school was always something I'd look forward to.  Now that it has happened, it feels crazy to me.  Now in college, I feel as though this is a relaxing time for me, being able to do homework, stay home, and essentially do nothing during this quarantine.  Not haveing to worry about waking up for classes in the morning is a plus, but do I really love my daily routine.  I've been going to sleep very late, and waking up in the afternoon.  It's nice being able to sleep in and do homework and assignments when I want to.
