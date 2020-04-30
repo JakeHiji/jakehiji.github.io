@@ -9,6 +9,8 @@ labels:
   - college
 ---
 
+<img class="ui top aligned large image" src="../images/patterns.png">
+
 ## A Common Problem
 Most students taking ICS courses go into the program not know much about coding and have a deeper understanding of computers.  This statement for me is a very real position that I was in when first switching to a CS major.  I had known nothing about coding, how it works, or what it does, but my pure curiosity drove me to work hard to get a better understanding of this technical, sometimes head scratching world of computers.  With out the help of professors, and their many lectures, assignments and quizzes I would not be where I am today.  It seems that I have come across many different design pattern problems to solve during my journey of being a CS major.  
 
