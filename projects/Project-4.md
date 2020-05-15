@@ -24,4 +24,4 @@ along with working on smaller components and aspects on the site.
 
 I had lots of confusion and fun during this project, but seeing the final outcome is the best feeling of all.  Having a fully functional site, one that you can use along with others, using accounts and connecting with eachother is a simple thing to use on the outside, but seeing how everything works on the inside is mind boggling. 
 
-[Check out my Project here](url: https://bowride.github.io/)
+[Check out my project here](https://bowride.github.io/)
