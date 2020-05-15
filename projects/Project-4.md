@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sponge.jpg
+image: images/bowride-logo.png
 title: BowRides
 permalink: projects/bowrides
 # All dates must be YYYY-MM-DD format!
